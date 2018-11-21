@@ -1,1 +1,1 @@
-alert('it works');
+alert( require('./src/alert') +'s');
