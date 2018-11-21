@@ -7,7 +7,8 @@
   "author": "<borrey@gmail.com>",
   "license": "MIT",
   "private": true,
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "webpack": "^4.26.0"
   }
 }
