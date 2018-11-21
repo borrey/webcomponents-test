@@ -1,0 +1,13 @@
+{
+  "name": "webcomponents-test",
+  "version": "1.0.0",
+  "description": "Testing Web components",
+  "main": "index.js",
+  "repository": "git@github.com:borrey/webcomponents-test.git",
+  "author": "<borrey@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "webpack": "^4.26.0"
+  }
+}
