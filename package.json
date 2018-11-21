@@ -7,7 +7,10 @@
   "author": "<borrey@gmail.com>",
   "license": "MIT",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-loader": "^8.0.4"
+  },
   "devDependencies": {
     "webpack": "^4.26.0",
     "webpack-cli": "^3.1.2",

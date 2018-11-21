@@ -10,6 +10,10 @@ module.exports = {
     publicPath: '/build', // instead of publicPath: '/build/' 
     filename: '[name].js'
   },
+  module: {
+    rules: [
+    ]
+  },
   plugins : debug ? [] : [
     new webpack.optimize.DedupePlugin(),
     new webpack.optimize.OccuranceOrderPlugin(),
