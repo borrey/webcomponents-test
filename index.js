@@ -1,1 +1,1 @@
-alert( require('./src/alert') +'s');
+alert( require('./src/alert') +'a');

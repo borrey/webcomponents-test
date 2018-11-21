@@ -12,3 +12,5 @@ Testing webcomponents and webpack
     }
     };
 * then ran webpack
+webpack --mode=development
+webpack --mode=production
